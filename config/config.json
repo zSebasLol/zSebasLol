@@ -1,0 +1,9 @@
+{
+    "token": "MTAyMzc3ODU5MDI1MDI0MjEzOQ.G5-TVH.AOTcN3Jc1I6tQ2G8V5d8ocgyGtg7aKgRp3HXRQ",
+    "prefix": "d!",
+    "mongodb": "mongodb+srv://harper:harper@cluster0.uxgtvsr.mongodb.net/?retryWrites=true&w=majority",
+    "ownerIDS": ["941156833001898004", "958564580622237738"],
+    "color": "#8400ff",
+    "clientId": "1023778590250242139",
+    "COOLDOWN": "3"
+}
